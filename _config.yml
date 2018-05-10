@@ -2,3 +2,9 @@ theme: jekyll-theme-hacker
 title: Ursine Enterprises
 author: Jeffrey McAnarney
 description: Notes, code, essays, and tutorials regarding physical and information security, privacy, and associated areas.
+footer-links:
+  email: security@ursine.enterprises
+  rss: subscribe
+  twitter: UrsineSecurity
+  stackoverflow: users/570619/sisyphus
+  googleplus: 
