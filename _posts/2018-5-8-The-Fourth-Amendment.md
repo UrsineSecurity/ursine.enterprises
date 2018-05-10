@@ -2,7 +2,7 @@
 layout: post
 title:  "The Fourth Amendment"
 date:   2018-05-09 13:39:07 -0500
-categories: essay privacy constitution
+tags: essay privacy constitution
 ---
 <h3>"Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety."</h3>
 *Benjamin Franklin*
