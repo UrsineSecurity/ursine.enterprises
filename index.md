@@ -3,6 +3,7 @@ layout: default
 author: Jeffrey McAnarney
 title: landing-page
 ---
+{% include archive.html  %}
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
