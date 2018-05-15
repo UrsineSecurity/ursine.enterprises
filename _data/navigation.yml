@@ -1,0 +1,12 @@
+- link: /
+  name: Home
+- link: /tutorials/
+  name: Tutorials
+- link: /blog/
+  name: Blog
+- link: /projects/
+  name: Projects
+- link: /about/
+  name: About
+- link: /contact/
+  name: Contact
