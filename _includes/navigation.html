@@ -1,19 +1,10 @@
 <nav>
   <ul>
     {% for item in site.data.navigation %}
-<<<<<<< HEAD
-      <li><a href="{{ item.link }} " {% if item.highlight %}style="border: 1px solid red;"{% endif %} {% if item.link == page.url %}class="active"{% endif %}>
-        {{ item.name }}" "
+      <li><a href="{{ item.link }}" {% if item.highlight %}style="border: 1px solid red;"{% endif %} {% if item.link == page.url %}class="active"{% endif %}>
+        {{ item.name }}
       </a></li>
     {% endfor %}
   </ul>
 </nav>
   
-=======
-      <a href="{{ item.link }}" {% if item.highlight %}style="border: 1px solid red;"{% endif %} {% if item.link == page.url %}class="active"{% endif %}>
-        {{ item.name }}"  "
-      </a>
-    {% endfor %}
-  </nav>
-  
->>>>>>> 189aad9ec703707f2be33d2030af5156f611ec70
